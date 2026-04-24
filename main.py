@@ -1,2 +1,0 @@
-print("Welcome to restaurant-menu-page")
-print("This is the main program file.")
